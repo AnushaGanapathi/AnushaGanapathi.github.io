@@ -1879,4 +1879,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .timeline-text { max-width: 700px; }
 
+  footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: medium;
+    color: #888;
+  }
+
 }
