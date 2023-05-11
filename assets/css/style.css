@@ -1888,3 +1888,26 @@ footer {
   }
 
 }
+
+/**
+* FOOTER
+*/
+
+.copyright {
+  position:relative;
+  width: 100%;
+  padding-top: 1rem;
+  color: var(--light-gray-70);
+  font-size: var(--fs-10);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+  text-align: center;
+}
+
+.copyright-link {
+  display: inline;
+  color: var(--vegas-gold);
+  font-size: var(--fs-10);
+  font-weight: var(--fw-300);
+
+}
