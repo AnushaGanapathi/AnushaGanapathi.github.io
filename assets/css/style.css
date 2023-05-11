@@ -1870,7 +1870,10 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .social-list { justify-content: center; }
-
+  footer {
+    font-size: small;
+    color: #888;
+  }
 
 
   /**
@@ -1878,5 +1881,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 */
 
   .timeline-text { max-width: 700px; }
+  
+footer {
+    font-size: small;
+    color: #888;
+  }
 
 }
