@@ -14,7 +14,7 @@ function submitPassword() {
   var pwd = document.getElementById("passwordInput").value;
 
   if (pwd === "gandalf") {
-    window.location.href = "cv.html";
+    window.location.href = "curriculumvitae.html";
   } else {
     document.getElementById("errorMsg").style.display = "block";
   }
