@@ -13,8 +13,8 @@ function closePopup() {
 function submitPassword() {
   var pwd = document.getElementById("passwordInput").value;
 
-  if (pwd === "gandalf") {
-    window.location.href = "curriculumvitae.html";
+  if (pwd === "scout") {
+    window.location.href = "clue.html";
   } else {
     document.getElementById("errorMsg").style.display = "block";
   }
